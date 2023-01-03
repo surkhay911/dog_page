@@ -1,0 +1,44 @@
+body{
+    background-image: url(img/image2.png)
+}
+
+nav{
+    margin-top: 98px;
+}
+
+a{
+    text-decoration: none;
+    color: #818487;
+    font-size: 24px;
+    line-height: 28px;
+    font-style: normal;
+    margin-right: 70px;
+}
+
+.nav_logo{
+    color: #FFFFFF;
+    font-size: 48px;
+    font-style: normal;
+    margin: 98px 122px 0 100px;
+
+}
+
+main>p{
+    color: white;
+    font-size: 100px;
+    width: 533px;
+    height: 293px;
+    margin: 268px 0 0 86px;
+
+}
+
+main>img{
+    margin: 55px 131px -11px 1178px;
+}
+
+.rectangle_bottom{
+
+    /* width: 229px; */
+    /* height: 160px; */
+    /* background: #8F5D36; */
+}
